@@ -1,0 +1,81 @@
+body
+{
+    font-family:"Times New Roman",Georgia,Serif;
+    background-color: rgba(234, 91, 12, 0.1);
+}
+
+#portal-column-content h1,
+#portal-column-content h2
+{
+    font-family:"Times New Roman",Georgia,Serif;
+}
+
+#content .documentDescription,
+#content #description {
+    font-family:"Times New Roman",Georgia,Serif;
+}
+
+#home-blocks h3
+{
+    font-family:"Times New Roman",Georgia,Serif;
+}
+
+#portaltab-international_tab
+{
+    position: relative;
+    left: -30px;
+}
+
+#breadcrumbs-wrapper
+{
+    background-color: #EA5B0C;
+}
+
+#breadcrumbs-wrapper a
+{
+    color: white;
+}
+
+#country-banner-wrapper
+{
+    margin-bottom: 5px;
+}
+
+#content-wrapper
+{
+    padding-top: 0px;
+}
+
+a, a:link
+{
+    color: #EA5B0C;
+}
+
+a:visited, a:hover, a:active,
+#content a:visited
+{
+    color: #F5AD86;
+}
+
+.portletNavigationTree a,
+.portletNavigationTree a:link
+{
+    color: #EA5B0C !important;
+}
+
+.portletNavigationTree a:visited,
+.portletNavigationTree a:active
+{
+    color: #F5AD86 !important;
+}
+
+.portlet dt.portletHeader
+{
+    background-color: #EA5B0C;
+    color: white;
+}
+
+dl.portletStaticText
+{
+    background-color: rgba(234, 91, 12, 0.1);
+}
