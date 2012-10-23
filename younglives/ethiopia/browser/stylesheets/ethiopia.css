@@ -1,7 +1,7 @@
 body
 {
     font-family:"Times New Roman",Georgia,Serif;
-    background-color: rgba(234, 91, 12, 0.1);
+    background-color: rgba(58, 170, 53, 0.1);
 }
 
 #portal-column-content h1,
@@ -28,7 +28,7 @@ body
 
 #breadcrumbs-wrapper
 {
-    background-color: #EA5B0C;
+    background-color: #3AAA35;
 }
 
 #breadcrumbs-wrapper a
@@ -48,34 +48,34 @@ body
 
 a, a:link
 {
-    color: #EA5B0C;
+    color: #3AAA35;
 }
 
 a:visited, a:hover, a:active,
 #content a:visited
 {
-    color: #F5AD86;
+    color: #9DD49A;
 }
 
 .portletNavigationTree a,
 .portletNavigationTree a:link
 {
-    color: #EA5B0C !important;
+    color: #3AAA35 !important;
 }
 
 .portletNavigationTree a:visited,
 .portletNavigationTree a:active
 {
-    color: #F5AD86 !important;
+    color: #9DD49A !important;
 }
 
 .portlet dt.portletHeader
 {
-    background-color: #EA5B0C;
+    background-color: #3AAA35;
     color: white;
 }
 
 dl.portletStaticText
 {
-    background-color: rgba(234, 91, 12, 0.1);
+    background-color: rgba(58, 170, 53, 0.1);
 }
