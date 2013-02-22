@@ -1,4 +1,0 @@
-<layers>
-    <layer name="younglives.ethiopia"
-        interface="younglives.ethiopia.browser.interfaces.IYounglivesEthiopia" />
-</layers>
