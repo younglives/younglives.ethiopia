@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgba(58, 170, 53, 0.1);
+}
+
+#portaltab-international_tab
+{
+    position: relative;
+    left: -30px;
+}
+
+#breadcrumbs-wrapper
+{
+    background-color: #3AAA35;
+}
+
+#breadcrumbs-wrapper a
+{
+    color: white;
+}
+
+#country-banner-wrapper
+{
+    margin-bottom: 5px;
+}
+
+#content-wrapper
+{
+    padding-top: 0px;
+}
+
+a, a:link
+{
+    color: #3AAA35;
+}
+
+a:visited, a:hover, a:active,
+#content a:visited
+{
+    color: #9DD49A;
+}
+
+.portletNavigationTree a,
+.portletNavigationTree a:link
+{
+    color: #3AAA35 !important;
+}
+
+.portletNavigationTree a:visited,
+.portletNavigationTree a:active
+{
+    color: #9DD49A !important;
+}
+
+.portlet dt.portletHeader,
+.portlet dt.portletHeader a
+{
+    background-color: #3AAA35;
+    color: white;
+}
+
+dl.portletStaticText
+{
+    background-color: rgba(58, 170, 53, 0.1);
+}
