@@ -1,8 +1,10 @@
 Changelog
 =========
 
-1.0.1 Unreleased
+1.0.1 2013/02/22
 ----------------
+
+ - Customise the footer and update links
 
 1.0.0 2013/02/22
 ----------------
