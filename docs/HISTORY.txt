@@ -1,8 +1,10 @@
 Changelog
 =========
 
-1.0.2 Unreleased
+1.0.2 2014/01/29
 ----------------
+ - Fix banner link in portal_factory
+ - Fix domain names in portal tabs
 
 1.0.1 2013/02/22
 ----------------
